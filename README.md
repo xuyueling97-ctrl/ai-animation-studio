@@ -76,7 +76,7 @@ python3 -m venv .venv
 4. 容器内 `curl -f http://127.0.0.1:8501/_stcore/health` 应返回 `ok`，但这不代表外部可访问。
 5. 使用平台实际提供的受保护预览地址。只有平台明确要求时才加 `--address 0.0.0.0`。若已启用 Jupyter Server Proxy，可按其实际前缀访问 `proxy/8501/`；不保证免费 Notebook 提供此路由。
 
-不能将自己电脑的 `localhost` 当作 Notebook 地址。没有可用入口时使用本机版本，不自动建立公网隧道。当前尚未在真实 ModelScope 实例或 Linux 主机实测；[官方 Notebook 文档](https://modelscope.cn/docs/notebook/intro)与账户当前界面为准。
+不能将自己电脑的 `localhost` 当作 Notebook 地址。没有可用入口时使用本机版本，不自动建立公网隧道。已通过 GitHub Actions 的 Ubuntu/Windows 安装与测试；尚未在真实 ModelScope 实例验证端口访问；[官方 Notebook 文档](https://modelscope.cn/docs/notebook/intro)与账户当前界面为准。
 
 ## 日常使用与边界
 

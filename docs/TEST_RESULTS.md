@@ -1,4 +1,4 @@
-# v0.1.0 发布候选验证
+# v0.1.0 验证报告
 
 日期：2026-11-11。已在独立发布目录创建全新 Python 3.11.9 虚拟环境，从锁定依赖安装成功；未复用生产虚拟环境的 site-packages。pip 下载缓存仅用于加速，不改变依赖隔离。
 
@@ -15,4 +15,6 @@
 
 测试 MP4 是单色合成片段，图片由代码绘制，音频为静音。测试不需要真实制作素材、外部模型或 GPU。
 
-范围限制：未在 Linux/ModelScope 实例实际执行安装及端口代理测试；已准备 Ubuntu/Windows 的 GitHub Actions，尚未推送，因此远端 CI 尚未运行。不把配置了 CI 表述为已经通过 CI。未完成所有浏览器音视频编解码器及大文件压力测试。
+远端 CI：Ubuntu 与 Windows 均完成全新依赖安装、pip check、18 项测试和 Git 历史隐私扫描，全部通过。[首次 CI 记录](https://github.com/xuyueling97-ctrl/ai-animation-studio/actions/runs/43044407581)。
+
+范围限制：尚未在真实 ModelScope 实例验证其端口代理，也未完成所有浏览器音视频编解码器及大文件压力测试。
