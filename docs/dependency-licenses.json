@@ -1,0 +1,218 @@
+[
+  {
+    "name": "altair",
+    "version": "5.5.0",
+    "declared_license": "OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/altair.txt"
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/attrs.txt"
+  },
+  {
+    "name": "blinker",
+    "version": "1.9.0",
+    "declared_license": "OSI Approved :: MIT License",
+    "notice_file": "third-party-licenses/blinker.txt"
+  },
+  {
+    "name": "cachetools",
+    "version": "6.2.6",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/cachetools.txt"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.10.23",
+    "declared_license": "OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
+    "notice_file": "third-party-licenses/certifi.txt"
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.5.2",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/charset-normalizer.txt"
+  },
+  {
+    "name": "click",
+    "version": "8.5.1",
+    "declared_license": "BSD-3-Clause",
+    "notice_file": "third-party-licenses/click.txt"
+  },
+  {
+    "name": "gitdb",
+    "version": "4.0.12",
+    "declared_license": "OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/gitdb.txt"
+  },
+  {
+    "name": "GitPython",
+    "version": "3.2.1",
+    "declared_license": "BSD-3-Clause",
+    "notice_file": "third-party-licenses/GitPython.txt"
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "declared_license": "BSD-3-Clause",
+    "notice_file": "third-party-licenses/idna.txt"
+  },
+  {
+    "name": "Jinja2",
+    "version": "3.1.6",
+    "declared_license": "OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/Jinja2.txt"
+  },
+  {
+    "name": "jsonschema",
+    "version": "4.26.0",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/jsonschema.txt"
+  },
+  {
+    "name": "jsonschema-specifications",
+    "version": "2025.9.1",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/jsonschema-specifications.txt"
+  },
+  {
+    "name": "MarkupSafe",
+    "version": "3.0.4",
+    "declared_license": "BSD-3-Clause",
+    "notice_file": "third-party-licenses/MarkupSafe.txt"
+  },
+  {
+    "name": "narwhals",
+    "version": "2.28.0",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/narwhals.txt"
+  },
+  {
+    "name": "numpy",
+    "version": "2.4.6",
+    "declared_license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+    "notice_file": "third-party-licenses/numpy.txt"
+  },
+  {
+    "name": "packaging",
+    "version": "25.0",
+    "declared_license": "OSI Approved :: Apache Software License; OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/packaging.txt"
+  },
+  {
+    "name": "pandas",
+    "version": "2.3.3",
+    "declared_license": "OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/pandas.txt"
+  },
+  {
+    "name": "pillow",
+    "version": "12.3.0",
+    "declared_license": "MIT-CMU",
+    "notice_file": "third-party-licenses/pillow.txt"
+  },
+  {
+    "name": "protobuf",
+    "version": "6.33.6",
+    "declared_license": "3-Clause BSD License",
+    "notice_file": "third-party-licenses/protobuf.txt"
+  },
+  {
+    "name": "pyarrow",
+    "version": "21.0.0",
+    "declared_license": "OSI Approved :: Apache Software License",
+    "notice_file": "third-party-licenses/pyarrow.txt"
+  },
+  {
+    "name": "pydeck",
+    "version": "0.9.3",
+    "declared_license": "Apache License 2.0",
+    "notice_file": "third-party-licenses/pydeck.txt"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "4.0.0",
+    "declared_license": "BSD-3-Clause",
+    "notice_file": "third-party-licenses/python-dateutil.txt"
+  },
+  {
+    "name": "pytz",
+    "version": "2026.6",
+    "declared_license": "OSI Approved :: MIT License",
+    "notice_file": "third-party-licenses/pytz.txt"
+  },
+  {
+    "name": "referencing",
+    "version": "0.37.0",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/referencing.txt"
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "declared_license": "OSI Approved :: Apache Software License",
+    "notice_file": "third-party-licenses/requests.txt"
+  },
+  {
+    "name": "rpds-py",
+    "version": "2026.9.1",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/rpds-py.txt"
+  },
+  {
+    "name": "smmap",
+    "version": "5.0.3",
+    "declared_license": "OSI Approved :: BSD License",
+    "notice_file": "third-party-licenses/smmap.txt"
+  },
+  {
+    "name": "streamlit",
+    "version": "1.51.0",
+    "declared_license": "OSI Approved :: Apache Software License",
+    "notice_file": "third-party-licenses/streamlit.txt"
+  },
+  {
+    "name": "tenacity",
+    "version": "9.2.1",
+    "declared_license": "Apache-2.0",
+    "notice_file": "third-party-licenses/tenacity.txt"
+  },
+  {
+    "name": "toml",
+    "version": "0.10.2",
+    "declared_license": "OSI Approved :: MIT License",
+    "notice_file": "third-party-licenses/toml.txt"
+  },
+  {
+    "name": "tornado",
+    "version": "6.6.1",
+    "declared_license": "OSI Approved :: Apache Software License",
+    "notice_file": "third-party-licenses/tornado.txt"
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "declared_license": "PSF-2.0",
+    "notice_file": "third-party-licenses/typing_extensions.txt"
+  },
+  {
+    "name": "tzdata",
+    "version": "2026.6",
+    "declared_license": "Apache-2.0",
+    "notice_file": "third-party-licenses/tzdata.txt"
+  },
+  {
+    "name": "urllib3",
+    "version": "2.8.0",
+    "declared_license": "MIT",
+    "notice_file": "third-party-licenses/urllib3.txt"
+  },
+  {
+    "name": "watchdog",
+    "version": "6.0.0",
+    "declared_license": "OSI Approved :: Apache Software License",
+    "notice_file": "third-party-licenses/watchdog.txt"
+  }
+]
